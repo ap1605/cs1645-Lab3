@@ -62,8 +62,7 @@ int main() {
                     f_result_high = polynomial(p_current + step_size);
                     area += (f_result_high) * step_size/2;
                 }
-        
-
+            }
         }
 
     //Get the end time
